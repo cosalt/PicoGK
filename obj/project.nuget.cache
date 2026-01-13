@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+BUzlYfdAjE=",
+  "success": true,
+  "projectFilePath": "/Users/raymartin/picogk/PicoGKExamples.csproj",
+  "expectedPackageFiles": [
+    "/Users/raymartin/.nuget/packages/picogk/1.7.7.4/picogk.1.7.7.4.nupkg.sha512"
+  ],
+  "logs": []
+}
