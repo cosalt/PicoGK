@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PicoGKExamples")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f41a08e4fb956b507ba30b8ec6821ff52916a2c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("PicoGKExamples")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PicoGKExamples")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

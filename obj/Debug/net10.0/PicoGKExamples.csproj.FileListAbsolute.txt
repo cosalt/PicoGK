@@ -24,3 +24,4 @@
 /Users/raymartin/picogk/obj/Debug/net10.0/PicoGKExamples.pdb
 /Users/raymartin/picogk/obj/Debug/net10.0/PicoGKExamples.genruntimeconfig.cache
 /Users/raymartin/picogk/obj/Debug/net10.0/ref/PicoGKExamples.dll
+/Users/raymartin/picogk/obj/Debug/net10.0/PicoGKExamples.sourcelink.json
